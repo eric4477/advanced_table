@@ -190,3 +190,9 @@ body {
 .patient-actions:hover {
   background-color: rgb(182, 212, 220);
 }
+
+@media (min-width: 0px) and (max-width: 1399px) {
+  body {
+    display: none;
+  }
+}
